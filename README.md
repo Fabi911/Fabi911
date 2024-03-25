@@ -13,7 +13,7 @@ Hi, I'm Fabian and 34 years old. I'm actually studying at a bootcamp for web dev
 - MongoDB
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Fabi911&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Fabi911&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Fabi911&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabi911&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
