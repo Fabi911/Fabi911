@@ -12,5 +12,7 @@ Hi, I'm Fabian and 34 years old. I'm actually studying at a bootcamp for web dev
 - CSS
 - JavaScript
 - React
+- Next.js
+- MongoDB
   
 
