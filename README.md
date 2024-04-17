@@ -5,12 +5,15 @@
 Hi, I'm Fabian and 34 years old. I'm actually studying at a bootcamp for web development at neue Fische GmbH.
 
 ## Tech Stack
-- HTML 
-- CSS
 - JavaScript
 - React
 - Next.js
-- MongoDB
+- MongoDB Atlas
+- Mongoose
+- Node.js
+- Styled Components
+- useSWR
+  
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Fabi911&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)
