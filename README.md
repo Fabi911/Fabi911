@@ -2,7 +2,7 @@
 
 # 👋🏻Hello World!
 
-Hi, I'm Fabian and 34 years old. I'm actually studying at a bootcamp for web development at neue Fische GmbH.
+Hi, I'm Fabian and 34 years old and I'm a fresh frontend developer. Just finishing my coding bootcamp @neuefische.
 
 ## My tech stack:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
