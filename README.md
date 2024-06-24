@@ -2,10 +2,14 @@
 
 # 👋🏻Hello World!
 
-Hi, I'm Fabian and 34 years old and I'm a fresh frontend developer. Just finishing my coding bootcamp @neuefische.
+<p>Hi, I'm Fabian and I'm 34 years old and a junior frontend developer.</p>
+I am currently studying at the Java development bootcamp @<a href="https://www.neuefische.de/bootcamp/java-development">neueFische</a>. 
 
+---
 
-„Wer immer tut, was er schon kann, bleibt immer das, was er schon ist.“ (Henry Ford)
+<p>„Wer immer tut, was er schon kann, bleibt immer das, was er schon ist.“ (Henry Ford) </p>
+
+---
 
 ## My tech stack:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
