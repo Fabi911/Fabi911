@@ -1,6 +1,6 @@
 ##  💻 🎣 🌲🦌 👨‍👩‍👧  <a href="https://www.linkedin.com/in/fabian-döz-0973681a0"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-# 👋🏻Hello World! I'm Fabian and I'm 34 years old and a junior frontend developer.</p>
+# 👋🏻Hello World! I'm Fabian a junior frontend developer.</p>
 
 ## Java | Spring Boot | Javascript | React | NextJS | Node.js | MongoDB | Git
 
