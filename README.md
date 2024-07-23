@@ -13,6 +13,7 @@ I am currently studying at the Java development bootcamp @<a href="https://www.n
 <hr>
 
 ## Tech Stack
+[<img src="https://skillicons.dev/icons?i=java" title="Java" />](#) 
 [<img src="https://skillicons.dev/icons?i=html" title="html" />](#) 
 [<img src="https://skillicons.dev/icons?i=css" title="css" />](#) 
 [<img src="https://skillicons.dev/icons?i=js" title="JavaScript" />](#) 
@@ -20,7 +21,6 @@ I am currently studying at the Java development bootcamp @<a href="https://www.n
 [<img src="https://skillicons.dev/icons?i=react" title="React" />](#) 
 [<img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" />](#) 
 [<img src="https://skillicons.dev/icons?i=github" title="Github" />](#) 
-[<img src="https://skillicons.dev/icons?i=java" title="Java" />](#) 
 [<img src="https://skillicons.dev/icons?i=spring" title="Spring" />](#) 
 [<img src="https://skillicons.dev/icons?i=styledcomponents" title="styledcomponents" />](#)
 [<img src="https://skillicons.dev/icons?i=nodejs" title="nodejs" />](#)
