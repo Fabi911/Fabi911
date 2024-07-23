@@ -12,6 +12,29 @@ I am currently studying at the Java development bootcamp @<a href="https://www.n
 
 <hr>
 
+## Tech Stack
+[<img src="https://skillicons.dev/icons?i=html" title="html" />](#) 
+[<img src="https://skillicons.dev/icons?i=css" title="css" />](#) 
+[<img src="https://skillicons.dev/icons?i=js" title="JavaScript" />](#) 
+[<img src="https://skillicons.dev/icons?i=ts" title="TypeScript" />](#) 
+[<img src="https://skillicons.dev/icons?i=react" title="React" />](#) 
+[<img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" />](#) 
+[<img src="https://skillicons.dev/icons?i=github" title="Github" />](#) 
+[<img src="https://skillicons.dev/icons?i=java" title="Java" />](#) 
+[<img src="https://skillicons.dev/icons?i=spring" title="Spring" />](#) 
+[<img src="https://skillicons.dev/icons?i=styledcomponents" title="styledcomponents" />](#)
+[<img src="https://skillicons.dev/icons?i=nodejs" title="nodejs" />](#)
+[<img src="https://skillicons.dev/icons?i=maven" title="maven" />](#)
+[<img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" />](#)
+[<img src="https://skillicons.dev/icons?i=docker" title="Docker" />](#) 
+[<img src="https://skillicons.dev/icons?i=vercel" title="Vercel" />](#)
+[<img src="https://skillicons.dev/icons?i=idea" title="Intellij" />](#)
+[<img src="https://skillicons.dev/icons?i=figma" title="Figma" />](#)
+[<img src="https://skillicons.dev/icons?i=vscode" title="vsCode" />](#)
+[<img src="https://skillicons.dev/icons?i=apple" title="apple" />](#)
+
+
+
 <!--## My tech stack:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
