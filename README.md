@@ -2,7 +2,7 @@
 
 # 👋🏻Hello World! I'm Fabian a Junior Frontend Developer.</p>
 
-## Java | Spring Boot | Javascript | React | NextJS | Node.js | MongoDB | Git
+## Java | Spring Boot | TypeScript | Javascript | React | NextJS | Node.js | MongoDB | Git
 
 
 I am currently studying at the Java development bootcamp @<a href="https://www.neuefische.de/bootcamp/java-development">neueFische</a>. 
