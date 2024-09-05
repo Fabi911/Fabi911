@@ -38,6 +38,9 @@ I am currently studying at the Java development bootcamp @<a href="https://www.n
 
 <img alt="Top Langs" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabi911&layout=donut&theme=gruvbox"> ![](https://github-readme-stats.vercel.app/api?username=Fabi911&theme=gotham&hide_border=false&include_all_commits=false&count_private=false) 
 
+---
+[![](https://visitcount.itsvg.in/api?id=Fabi911&icon=2&color=12)](https://visitcount.itsvg.in)
+
 <!--### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Fabi911&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 -->
