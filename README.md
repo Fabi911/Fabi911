@@ -1,4 +1,4 @@
-##  💻 🎣 🌲🦌 👨‍👩‍👧  <a href="https://www.linkedin.com/in/fabian-döz-0973681a0"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+##  💻 🎣 🌲🦌 👨‍👩‍👧  
 
 # 👋🏻Hello World! I'm Fabian a Junior Frontend Developer.</p>
 
@@ -19,10 +19,12 @@ I am currently studying at the Java development bootcamp @<a href="https://www.n
 [<img src="https://skillicons.dev/icons?i=js" title="JavaScript" />](#) 
 [<img src="https://skillicons.dev/icons?i=ts" title="TypeScript" />](#) 
 [<img src="https://skillicons.dev/icons?i=react" title="React" />](#) 
+[<img src="https://skillicons.dev/icons?i=materialui" title="materialui" />](#)
 [<img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" />](#) 
 [<img src="https://skillicons.dev/icons?i=github" title="Github" />](#) 
 [<img src="https://skillicons.dev/icons?i=spring" title="Spring" />](#) 
 [<img src="https://skillicons.dev/icons?i=styledcomponents" title="styledcomponents" />](#)
+[<img src="https://skillicons.dev/icons?i=emotion" title="emotion" />](#)
 [<img src="https://skillicons.dev/icons?i=nodejs" title="nodejs" />](#)
 [<img src="https://skillicons.dev/icons?i=maven" title="maven" />](#)
 [<img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" />](#)
@@ -39,6 +41,7 @@ I am currently studying at the Java development bootcamp @<a href="https://www.n
 ![fabi911's Stats](https://github-readme-stats.vercel.app/api?username=fabi911&theme=dark&show_icons=true&hide_border=true&count_private=true)   ![fabi911's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fabi911&theme=dark&show_icons=true&hide_border=true&layout=donut)
 
 ---
+<a href="https://www.linkedin.com/in/fabian-döz-0973681a0"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 [![](https://visitcount.itsvg.in/api?id=Fabi911&icon=2&color=12)](https://visitcount.itsvg.in)
 
 <!--### 🏆 GitHub Trophies
