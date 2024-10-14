@@ -1,11 +1,11 @@
 ##  💻 🎣 🌲🦌 👨‍👩‍👧  
 
-# 👋🏻Hello World! I'm Fabian a Junior Frontend Developer.</p>
+# 👋🏻Hello World! I'm Fabian a Junior Fullstack developer.
 
 ## Java | Spring Boot | TypeScript | Javascript | React | NextJS | Node.js | MongoDB | Git
 
 
-I am currently studying at the Java development bootcamp @<a href="https://www.neuefische.de/bootcamp/java-development">neueFische</a>. 
+I recently completed my bootcamp as a java developer at @<a href="https://www.neuefische.de/bootcamp/java-development">neueFische</a>. 
 
 
 <i>„Wer immer tut, was er schon kann, bleibt immer das, was er schon ist.“ (Henry Ford)</i>
