@@ -2,7 +2,7 @@
 
 # 👋🏻Hello World! I'm Fabian a Junior Fullstack developer.
 
-## Java | Spring Boot | TypeScript | Javascript | React | NextJS | Node.js | MongoDB | Git
+## Java | Spring Boot | TypeScript | JavaScript | React | NextJS | Node.js | MongoDB | Git
 
 
 I recently completed my bootcamp as a java developer at @<a href="https://www.neuefische.de/bootcamp/java-development">neueFische</a>. 
