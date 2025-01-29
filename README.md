@@ -25,6 +25,7 @@ I recently completed my bootcamp as a java developer at @<a href="https://www.ne
 [<img src="https://skillicons.dev/icons?i=spring" title="Spring" />](#) 
 [<img src="https://skillicons.dev/icons?i=styledcomponents" title="styledcomponents" />](#)
 [<img src="https://skillicons.dev/icons?i=emotion" title="emotion" />](#)
+[<img src="https://skillicons.dev/icons?i=sass" title="sass" />](#)
 [<img src="https://skillicons.dev/icons?i=nodejs" title="nodejs" />](#)
 [<img src="https://skillicons.dev/icons?i=maven" title="maven" />](#)
 [<img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" />](#)
