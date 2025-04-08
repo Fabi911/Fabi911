@@ -1,6 +1,6 @@
 ##  💻 🎣 🌲🦌 🧑‍🧑‍🧒‍🧒
 
-# 👋🏻Hello World! I'm Fabian a Junior Fullstack developer.
+# 👋🏻Hello World! I'm Fabian a Junior software developer.
 
 ## Java | Spring Boot | TypeScript | JavaScript | React | NextJS | Node.js | MongoDB | Git
 
