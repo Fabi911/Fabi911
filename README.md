@@ -5,7 +5,7 @@
 ## Java | Spring Boot | TypeScript | JavaScript | React | NextJS | Node.js | MongoDB | Git
 
 
-I recently completed my bootcamp as a java developer at @<a href="https://www.neuefische.de/bootcamp/java-development">neueFische</a>. 
+I am currently working as a junior software developer at @<a href="https://heuboe.de">Heusch/Boesefeldt GmbH</a>. 
 
 
 <i>„Wer immer tut, was er schon kann, bleibt immer das, was er schon ist.“ (Henry Ford)</i>
