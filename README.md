@@ -40,7 +40,6 @@ I am currently working as a junior software developer at @<a href="https://heubo
 ## 📊 GitHub Stats:
 
 ![fabi911's Stats](https://github-readme-stats.vercel.app/api?username=fabi911&theme=dark&show_icons=true&hide_border=true&count_private=true)   ![fabi911's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fabi911&theme=dark&show_icons=true&hide_border=true&layout=donut)
-[![Fabian's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fabi911&themegradient&bg_color=bg_color=180,2AD1FE,F47468&title_color=fff&text_color=000)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
