@@ -35,12 +35,9 @@ I am currently working as a junior software developer at @<a href="https://heubo
 [<img src="https://skillicons.dev/icons?i=figma" title="Figma" />](#)
 [<img src="https://skillicons.dev/icons?i=vscode" title="vsCode" />](#)
 [<img src="https://skillicons.dev/icons?i=apple" title="apple" />](#)
-
-
-## 📊 GitHub Stats:
-
-![fabi911's Stats](https://github-readme-stats.vercel.app/api?username=fabi911&theme=dark&show_icons=true&hide_border=true&count_private=true)   ![fabi911's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fabi911&theme=dark&show_icons=true&hide_border=true&layout=donut)
-
+[<img src="https://skillicons.dev/icons?i=kafka" title="kafka" />](#)
+[<img src="https://skillicons.dev/icons?i=kubernetes" title="kubernetes" />](#)
+[<img src="https://skillicons.dev/icons?i=gitlab" title="gitlab" />](#)
 
 ---
 <a href="https://www.linkedin.com/in/fabian-döz-0973681a0"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
