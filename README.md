@@ -44,6 +44,7 @@ I am currently working as a junior software developer at @<a href="https://heubo
 [![](https://visitcount.itsvg.in/api?id=Fabi911&icon=2&color=12)](https://visitcount.itsvg.in)
 
 ![Stats](./profile/stats.svg)
+<br/>
 ![Top Languages](./profile/top-langs.svg)
 
 <!--### 🏆 GitHub Trophies
