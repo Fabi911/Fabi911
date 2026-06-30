@@ -43,6 +43,8 @@ I am currently working as a junior software developer at @<a href="https://heubo
 <a href="https://www.linkedin.com/in/fabian-döz-0973681a0"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 [![](https://visitcount.itsvg.in/api?id=Fabi911&icon=2&color=12)](https://visitcount.itsvg.in)
 
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=fabi911)](https://github.com/stats-organization/github-stats-extended)
+
 <!--### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Fabi911&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 -->
